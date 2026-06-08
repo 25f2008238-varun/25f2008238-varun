@@ -72,7 +72,6 @@ I am interested in methods such as:
 
 ---
 <img width="2736" height="3648" alt="e439461c-2bb5-4698-85e8-9bc22aa3db24" src="https://github.com/user-attachments/assets/586ca72f-70e6-4802-81ab-2394b9aabb7d" />
-<img width="2736" height="3648" alt="e439461c-2bb5-4698-85e8-9bc22aa3db24" src="https://github.com/user-attachments/assets/37d63a57-fa23-45d7-8bc1-473b2c990f0e" />
 
 ## GitHub Purpose
 
@@ -90,7 +89,7 @@ This profile will include:
 ## Contact
 
 * GitHub: [25f2008238-varun](https://github.com/25f2008238-varun)
-* Email: [25f2008238@ds.study.iitm.ac.in<img width="2736" height="3648" alt="e439461c-2bb5-4698-85e8-9bc22aa3db24" src="https://github.com/user-attachments/assets/9ea22c7c-feb8-4f22-8041-564c6c0f4f50" />
+* Email: [25f2008238@ds.study.iitm.ac.in
 ](mailto:25f2008238@ds.study.iitm.ac.in
 
 ---
